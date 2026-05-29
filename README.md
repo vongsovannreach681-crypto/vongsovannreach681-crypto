@@ -10,7 +10,6 @@
 
 ---
 
-<img align="right" alt="Killua" width="260" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Killua_Zoldyck.png/220px-Killua_Zoldyck.png"/>
 
 ### 🧬 Who am I?
 
