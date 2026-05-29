@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Killua" width="260" src="https://i.pinimg.com/originals/a4/5a/a6/a45aa6b3b37370e4bf4ae5f7ceea3b79.png"/>
+<img align="right" alt="Killua" width="260" src="[https://i.pinimg.com/originals/a4/5a/a6/a45aa6b3b37370e4bf4ae5f7ceea3b79.png](https://www.pngplay.com/wp-content/uploads/12/Killua-Zoldyck-Transparent-Image.png)"/>
 
 ### 🧬 Who am I?
 
