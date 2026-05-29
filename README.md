@@ -9,11 +9,7 @@
 </div>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vongsovannreach681-crypto/vongsovannreach681-crypto/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vongsovannreach681-crypto/vongsovannreach681-crypto/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vongsovannreach681-crypto/vongsovannreach681-crypto/output/github-contribution-grid-snake.svg"/>
-</picture>
+
 
 ### 🧬 Who am I?
 
